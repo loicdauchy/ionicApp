@@ -1,0 +1,7 @@
+{
+  "name": "traineeship",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
